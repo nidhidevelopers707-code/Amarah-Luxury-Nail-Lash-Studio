@@ -237,7 +237,7 @@ input, textarea, select {
     .services-grid,
     .features-grid,
     .testimonials-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
     }
 
     .gallery-grid {
@@ -1660,7 +1660,7 @@ input, textarea, select {
     .gallery-grid {
         justify-items: center;
         justify-content: center;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
         gap: 0.75rem;
     }
 
